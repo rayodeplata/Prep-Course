@@ -1,0 +1,51 @@
+    h1 {
+       color:dodgerblue;
+       justify-content: center; 
+       display: flex; 
+    }
+    h3 {
+        justify-content: center; 
+        display: flex;  
+    }
+    h4 {
+        justify-content: center; 
+        display: flex;
+    }
+    img { 
+       width: 400px;
+    }
+    #thirdDiv {
+    height: 600px;    
+    width: 500px;
+    background: beige;
+    padding: 50px;
+    border: thick double #32a1ce;
+    border-radius: 5%;
+    left: 0;
+    right: 0;
+    margin:auto
+    
+    
+    }
+    #spanid { 
+    font-size: 18px;  
+    margin: 50px;
+    
+
+    } 
+    body {
+        
+        background-image: url(https://images2.alphacoders.com/993/993073.jpg);
+        background-repeat: no-repeat;
+             
+    }
+
+    
+     
+    
+        
+
+    
+    
+    
+      
